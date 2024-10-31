@@ -1,0 +1,3 @@
+Data Collection: We used the GitHub API to retrieve user data from Austin with over 100 followers, saving details like login, name, and bio into users.csv. We then pulled up to 500 public repositories per user, storing fields like language, stars, and licenses in repositories.csv.
+Interesting Finding: Surprisingly, "Fennel" had the highest average stargazers per repository, despite its relative obscurity compared to widely-used languages like JavaScript and HTML.
+Recommendation: Developers can potentially increase their following by creating more repositories, as each additional repository is associated with an estimated 4.090 additional followers.
